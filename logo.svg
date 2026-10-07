@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 150" width="760" height="150">
+<style>@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&amp;family=Nunito:wght@700&amp;display=swap');</style>
+<g transform="translate(10,20) scale(1.1)">
+  <defs>
+    <linearGradient id="gf" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ff5fa8"/><stop offset="1" stop-color="#e5007d"/></linearGradient>
+  </defs>
+  <ellipse cx="50" cy="90" rx="44" ry="6" fill="#c9962e" opacity=".9"/>
+  <rect x="12" y="62" width="76" height="26" rx="6" fill="url(#gf)"/>
+  <path d="M12 68 q6 8 12 0 t12 0 t12 0 t12 0 t12 0 t12 0 v-6 h-72z" fill="#ffe3f0"/>
+  <rect x="24" y="42" width="52" height="22" rx="5" fill="url(#gf)"/>
+  <path d="M24 48 q5 7 10 0 t10 0 t10 0 t10 0 t10 0 v-6 h-50z" fill="#ffe3f0"/>
+  <rect x="35" y="25" width="30" height="19" rx="5" fill="url(#gf)"/>
+  <path d="M35 31 q5 6 10 0 t10 0 t10 0 v-6 h-30z" fill="#ffe3f0"/>
+  <circle cx="30" cy="80" r="2.2" fill="#fff"/><circle cx="50" cy="82" r="2.2" fill="#fff"/><circle cx="70" cy="80" r="2.2" fill="#fff"/>
+  <circle cx="40" cy="58" r="2" fill="#fff"/><circle cx="60" cy="58" r="2" fill="#fff"/>
+  <rect x="48.5" y="10" width="3" height="15" rx="1.5" fill="#c9962e"/>
+  <path d="M50 2 c-3 3.5 -3 6 0 7.5 c3 -1.5 3 -4 0 -7.5z" fill="#ff9a3c"/>
+  <path d="M50 12 l-2.6 -2.6 a1.9 1.9 0 0 1 2.6 -2.6 a1.9 1.9 0 0 1 2.6 2.6z" fill="#e5007d" opacity="0"/>
+</g>
+<text x="135" y="88" font-family="'Great Vibes',cursive" font-size="74" fill="#e5007d">Les Gâteaux de Lila</text>
+<text x="138" y="122" font-family="Nunito,Arial,sans-serif" font-weight="700" font-size="16" letter-spacing="4" fill="#8a7f7f">GÂTEAUX PERSONNALISÉS · LA RÉUNION</text>
+</svg>

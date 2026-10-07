@@ -1,0 +1,15 @@
+Site « Les Gâteaux de Lila » : maquette créée le 07/10/2026 par Romain (Pull Up Événements).
+
+VALEURS PROVISOIRES à remplacer dans index.html (chercher/remplacer) :
+- Téléphone : 06 92 00 00 00 / +262692000000 / wa.me/262692000000  → vrai numéro de Lila
+- E-mail : lesgateauxdelila@gmail.com → vraie adresse (ou créer cette adresse Gmail)
+- Lieu : « La Réunion » seulement → commune de Lila (texte contact, schéma JSON-LD « address », zone desservie)
+- Réseaux : liens Instagram / Facebook génériques → vraies pages
+- Citation de Lila (section « Qui est Lila ? ») : inventée, à valider
+- Nom complet de Lila et statut (micro-entreprise ?) pour les mentions légales
+- Domaine : actuellement https://capdepontromain-stack.github.io/les-gateaux-de-lila/ (canonical, og:url, schéma, robots.txt, sitemap.xml)
+
+Photos : photos/ = images utilisées (2 vraies créations de Lila + inspirations Pexels, licence libre, aucun visage).
+candidats/ = originaux téléchargés (ignoré par git, supprimable).
+Logos : logo.svg (horizontal), logo-rond.svg (pastille), logo.png, logo-rond.png, favicon.png, apple-touch-icon.png, og-image.jpg.
+outils/ = fichiers de fabrication des logos (rendu-logos.html, icone.svg).

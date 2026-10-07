@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /outils/
+
+Sitemap: https://capdepontromain-stack.github.io/les-gateaux-de-lila/sitemap.xml
